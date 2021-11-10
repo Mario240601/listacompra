@@ -1,0 +1,11 @@
+li:hover{
+	
+	background:#D3D3D3;
+}
+
+ol{
+	list-style-type:lower-greek ;
+	font-size:20px;
+	border:dotted;
+	border-color: goldenrod;
+}
